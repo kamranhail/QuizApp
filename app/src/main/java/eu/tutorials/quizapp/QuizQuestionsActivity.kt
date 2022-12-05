@@ -29,18 +29,15 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
      * This function is auto created by Android when the Activity Class is created.
      */
 
-    // TODO 2 A global variables for current position and questions list.
-    // START
     private var mCurrentPosition: Int = 1 // Default and the first question position
     private var mQuestionsList: ArrayList<Question>? = null
     private var mcurrentQuestion : Question?=null
     private var mtotal_CorrectAnswer: Int =0
 
-    // END
 
 
-    // TODO (STEP 5: A global variables for selected option.)
-    // START
+
+
     private var mSelectedOptionPosition: Int = 0
     // END
 
@@ -65,15 +62,14 @@ val Tv_username : TextView=findViewById(R.id.tv_username)
         tvOptionFour = findViewById(R.id.tv_option_four)
         btnSubmit=findViewById(R.id.btn_SUBMIT)
 
-        // TODO (STEP 3: Make the questions list and the current position variable global and remove the logs here.)
-        // START
+
         mQuestionsList = Constants.getQuestions()
         // END
 
         Constants.TOTAL_QUESTIONS
         setQuestion()
 
-        // TODO (STEP 4: Set all the click events for Options using the interface onClick listener)
+
         tvOptionOne?.setOnClickListener(this)
         tvOptionTwo?.setOnClickListener(this)
         tvOptionThree?.setOnClickListener(this)
@@ -84,11 +80,7 @@ val Tv_username : TextView=findViewById(R.id.tv_username)
 
 
 
-    // TODO (STEP 1 : Lets create a function to set the question in the UI components which we have done earlier the onCreate method. And make some of the variables global which we will be using later.)
-    // START
-    /**
-     * A function for setting the question to UI components.
-     */
+
     private fun setQuestion() {
 
 
@@ -226,12 +218,7 @@ val Tv_username : TextView=findViewById(R.id.tv_username)
 
 
 
-    // TODO (STEP 6: Create a function for view for highlighting the selected option.)
-    // START
 
-    /**
-     * A function to set the view of selected option view.
-     */
     private fun selectedOptionView(tv: TextView, selectedOptionNum: Int) {
         Log.i("question", "enter the fun")
         defaultOptionsView()
@@ -273,20 +260,14 @@ val Tv_username : TextView=findViewById(R.id.tv_username)
 
 
 
-  //  TODO ( STEP 9  MAKE FINTIONS FOR )
 
-    //Log.i("question", "enter the fun")
 
 
 }
 
 
 
-    // TODO (STEP 8: Create a function to set default options view.)
-    // START
-    /**
-    * A function to set default options view when the new question is loaded or when the answer is reselected.
-    */
+
     private fun defaultOptionsView() {
 
         val options = ArrayList<TextView>()
