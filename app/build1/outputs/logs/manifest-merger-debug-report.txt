@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\d78275810a689afedfc9f6fce9271073\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3dcbe39d608cfb7880301c1240f44bdd\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e2f73718cb41d9068ca15eb0f24fde42\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\dea8f19f8b75bae42489abe46b553887\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\36ee5761742ee0963a2fe7bfcc22f8db\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ATOnline\.gradle\caches\transforms-3\eb82820a64984296b99065280094f58e\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\ATOnline\.gradle\caches\transforms-3\e0bfa1c320b067305bbce1c1b9c81aa9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\c45eeaef9c6e87f4aab5c2df4f7ff3b5\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\96ef6d698a0fce6ab648b959b6c91a34\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e18f7b8500da3961d3aecdeb52e3d638\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\d78e481b975e17612cce6578edee968a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ATOnline\.gradle\caches\transforms-3\2f8d23eb07c626c96e64428ee94c758f\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\8a28f6fc7c86637ecb8b2eaa0814fb47\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\bbe2ef28165f1d8ec5540b4ad1b9dfc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3abadd16f595b3f8d3ca251cffc68293\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\1be282990ba7f1f2a4b0b02b2fd79d53\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e7fdc0b9d7d5b512d4130098ebe75354\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\781ad85620b70c4bd0c19aa3d3780bda\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\2b297142df10ee96f25c7e22f2d29278\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\350567bd6b27bbb645e6bf2c434988cb\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\72c872b9afad86d828b9011d0e35de97\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\1999a9b74342fa3b678201ab05b14f1c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\b4ae19b763abdbb67682b1bc5fc689f6\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\29c7a9421a874a743c5c959d414abb69\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ATOnline\.gradle\caches\transforms-3\f72ec8c1212ab1337e686822dcea07a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\cb2d0440c8a7c6ea849a999c3c918207\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\85d5ffd9d14939152ff32b22b30ff04a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\2ed1f11932f558af4276e8d976e7dc0f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\54cc6d9921cfe427d67a889cfb975249\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\672676c0506c6d442e9db27fee4e6188\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\ff22b9e6a56b2c03d54a8edb1b7dda14\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\6aad9dcd3aa9bc4c076e45642ff37f7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\41441b4c2106b5260e1152573c42cf87\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e453f7bf1de35bebe09f8d7dbd9ad75e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3dcbe39d608cfb7880301c1240f44bdd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3dcbe39d608cfb7880301c1240f44bdd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e2f73718cb41d9068ca15eb0f24fde42\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e2f73718cb41d9068ca15eb0f24fde42\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ATOnline\.gradle\caches\transforms-3\f72ec8c1212ab1337e686822dcea07a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ATOnline\.gradle\caches\transforms-3\f72ec8c1212ab1337e686822dcea07a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:11:9-45
+activity#eu.tutorials.quizapp.Resultactivity
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:13:13-43
+activity#eu.tutorials.quizapp.QuizQuestionsActivity
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:15:9-18:52
+	android:screenOrientation
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:18:13-49
+	android:exported
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:16:13-50
+activity#eu.tutorials.quizapp.MainActivity
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:screenOrientation
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:22:13-49
+	android:exported
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\d78275810a689afedfc9f6fce9271073\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\d78275810a689afedfc9f6fce9271073\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3dcbe39d608cfb7880301c1240f44bdd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3dcbe39d608cfb7880301c1240f44bdd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e2f73718cb41d9068ca15eb0f24fde42\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e2f73718cb41d9068ca15eb0f24fde42\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\dea8f19f8b75bae42489abe46b553887\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\dea8f19f8b75bae42489abe46b553887\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\36ee5761742ee0963a2fe7bfcc22f8db\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\36ee5761742ee0963a2fe7bfcc22f8db\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ATOnline\.gradle\caches\transforms-3\eb82820a64984296b99065280094f58e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ATOnline\.gradle\caches\transforms-3\eb82820a64984296b99065280094f58e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\ATOnline\.gradle\caches\transforms-3\e0bfa1c320b067305bbce1c1b9c81aa9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\ATOnline\.gradle\caches\transforms-3\e0bfa1c320b067305bbce1c1b9c81aa9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\c45eeaef9c6e87f4aab5c2df4f7ff3b5\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\c45eeaef9c6e87f4aab5c2df4f7ff3b5\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\96ef6d698a0fce6ab648b959b6c91a34\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\96ef6d698a0fce6ab648b959b6c91a34\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e18f7b8500da3961d3aecdeb52e3d638\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e18f7b8500da3961d3aecdeb52e3d638\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\d78e481b975e17612cce6578edee968a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\d78e481b975e17612cce6578edee968a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ATOnline\.gradle\caches\transforms-3\2f8d23eb07c626c96e64428ee94c758f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ATOnline\.gradle\caches\transforms-3\2f8d23eb07c626c96e64428ee94c758f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\8a28f6fc7c86637ecb8b2eaa0814fb47\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\8a28f6fc7c86637ecb8b2eaa0814fb47\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\bbe2ef28165f1d8ec5540b4ad1b9dfc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\bbe2ef28165f1d8ec5540b4ad1b9dfc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3abadd16f595b3f8d3ca251cffc68293\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\3abadd16f595b3f8d3ca251cffc68293\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\1be282990ba7f1f2a4b0b02b2fd79d53\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\1be282990ba7f1f2a4b0b02b2fd79d53\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e7fdc0b9d7d5b512d4130098ebe75354\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e7fdc0b9d7d5b512d4130098ebe75354\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\781ad85620b70c4bd0c19aa3d3780bda\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\781ad85620b70c4bd0c19aa3d3780bda\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\2b297142df10ee96f25c7e22f2d29278\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\2b297142df10ee96f25c7e22f2d29278\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\350567bd6b27bbb645e6bf2c434988cb\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\350567bd6b27bbb645e6bf2c434988cb\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\72c872b9afad86d828b9011d0e35de97\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\72c872b9afad86d828b9011d0e35de97\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\1999a9b74342fa3b678201ab05b14f1c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\1999a9b74342fa3b678201ab05b14f1c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\b4ae19b763abdbb67682b1bc5fc689f6\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\b4ae19b763abdbb67682b1bc5fc689f6\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\29c7a9421a874a743c5c959d414abb69\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\29c7a9421a874a743c5c959d414abb69\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ATOnline\.gradle\caches\transforms-3\f72ec8c1212ab1337e686822dcea07a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ATOnline\.gradle\caches\transforms-3\f72ec8c1212ab1337e686822dcea07a2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\cb2d0440c8a7c6ea849a999c3c918207\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\cb2d0440c8a7c6ea849a999c3c918207\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\85d5ffd9d14939152ff32b22b30ff04a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\85d5ffd9d14939152ff32b22b30ff04a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\2ed1f11932f558af4276e8d976e7dc0f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ATOnline\.gradle\caches\transforms-3\2ed1f11932f558af4276e8d976e7dc0f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\54cc6d9921cfe427d67a889cfb975249\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\54cc6d9921cfe427d67a889cfb975249\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\672676c0506c6d442e9db27fee4e6188\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\672676c0506c6d442e9db27fee4e6188\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\ff22b9e6a56b2c03d54a8edb1b7dda14\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\ff22b9e6a56b2c03d54a8edb1b7dda14\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\6aad9dcd3aa9bc4c076e45642ff37f7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\6aad9dcd3aa9bc4c076e45642ff37f7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\41441b4c2106b5260e1152573c42cf87\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ATOnline\.gradle\caches\transforms-3\41441b4c2106b5260e1152573c42cf87\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e453f7bf1de35bebe09f8d7dbd9ad75e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ATOnline\.gradle\caches\transforms-3\e453f7bf1de35bebe09f8d7dbd9ad75e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml

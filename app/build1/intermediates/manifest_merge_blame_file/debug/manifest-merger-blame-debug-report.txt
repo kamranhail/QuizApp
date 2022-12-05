@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="eu.tutorials.quizapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:5:5-30:19
+12        android:allowBackup="true"
+12-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.6.0] C:\Users\ATOnline\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.QuizApp" >
+20-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:11:9-45
+21        <activity
+21-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:12:9-14:40
+22            android:name="eu.tutorials.quizapp.Resultactivity"
+22-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:13:13-43
+23            android:exported="false" />
+23-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:14:13-37
+24        <activity
+24-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:15:9-18:52
+25            android:name="eu.tutorials.quizapp.QuizQuestionsActivity"
+25-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:16:13-50
+26            android:exported="true"
+26-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:17:13-36
+27            android:screenOrientation="portrait" />
+27-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:18:13-49
+28        <activity
+28-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:19:9-29:20
+29            android:name="eu.tutorials.quizapp.MainActivity"
+29-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:20:13-41
+30            android:exported="true"
+30-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:21:13-36
+31            android:screenOrientation="portrait"
+31-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:22:13-49
+32            android:theme="@style/NoactionBar" >
+32-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:23:13-47
+33            <intent-filter>
+33-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:24:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:25:17-69
+34-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:27:17-77
+36-->D:\workspace android\udemy projects preprations\QuizApp-adding_the_button_functionality\app\src\main\AndroidManifest.xml:27:27-74
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>

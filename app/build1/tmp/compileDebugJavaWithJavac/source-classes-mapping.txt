@@ -1,0 +1,2 @@
+eu/tutorials/quizapp/BuildConfig.java
+ eu.tutorials.quizapp.BuildConfig
